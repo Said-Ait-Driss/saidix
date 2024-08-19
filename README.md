@@ -1,7 +1,7 @@
-# saidis
+# saidix
 
 <p>
-saidis is an in-momery database like redis. built on go
+saidix is an in-momery database like redis. built on go
 </p>
 <strong>
 <a href="https://www.databass.dev/"> referer followed toturial</a>
@@ -54,6 +54,6 @@ saidaitdrissofficial@gmail.com
 ## note : still using redis client (redis-cli) to test this server 
 ## next steps :
 ### support more commands : https://redis.io/docs/latest/commands/ 
-### is to build saidis client to interact with saidis server
+### is to build saidix client to interact with saidix server
 ## add some examples of : Pipelines for batching commands
 ### add Pub/Sub for sending messages between users
